@@ -59,8 +59,6 @@ document.addEventListener("DOMContentLoaded",function(){
 typeEffect();
 });
 
-/* Scroll Reveal */
-
 const observer = new IntersectionObserver((entries)=>{
 
 entries.forEach((entry)=>{
